@@ -7,6 +7,6 @@ public class HelloGIt {
 @Test	
 	public void demo()
 	{
-		System.out.println("********HelloGit************");
+		System.out.println("********Git Branch created************");
 	}
 }
